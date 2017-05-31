@@ -45,6 +45,7 @@ public class Test2 {
 		}
         System.out.println("Page title now is: " + driver.getTitle());
         assertEquals("Cheese! - Buscar con Google", driver.getTitle());
+        //comentario
 	}
 	
 }
