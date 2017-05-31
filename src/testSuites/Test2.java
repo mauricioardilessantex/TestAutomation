@@ -29,16 +29,7 @@ public class Test2 {
 	}
 		
 	
-	@Test
-	public void test() {
-        driver.get("http://www.google.com");
-        //WebElement element = driver.findElement(By.name("q"));
-        WebElement element = driver.findElement(By.name(txtBusqueda));
-        element.sendKeys("Cheese!");
-        element.submit();
-        System.out.println("Page title now is: " + driver.getTitle());
-        assertEquals("Google", driver.getTitle());
-	}
+	
 	
 	@Test
 	public void testTitle() {
