@@ -1,0 +1,4 @@
+configurations\AppConfigs.class
+configurations\XmlReader.class
+testSuites\Test1.class
+configurations\Connections.class
