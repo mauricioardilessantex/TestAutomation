@@ -1,4 +1,5 @@
 configurations\AppConfigs.class
+testSuites\TestMercadolibre.class
 configurations\XmlReader.class
 testSuites\Test1.class
 configurations\Connections.class
